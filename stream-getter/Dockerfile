@@ -1,7 +1,7 @@
 # Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 # SPDX-License-Identifier: MIT-0
 
-FROM python:3
+FROM python:3.12.0a5-slim
 
 WORKDIR /usr/src/app
 
